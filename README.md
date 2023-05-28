@@ -2,7 +2,7 @@
 
 This demo is based on Cocos Creator 3.7.3.
 
-Online DEMO: [https://umbrella-start.vercel.app]('https://umbrella-start.vercel.app/')
+Online DEMO: [https://umbrella-start.vercel.app](https://umbrella-start.vercel.app/)
 
 ## Sources
 
