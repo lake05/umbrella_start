@@ -5,7 +5,9 @@
       "width": 1280,
       "height": 720,
       "fitHeight": true,
-      "fitWidth": false
-    }
-  }
+      "fitWidth": true
+    },
+    "highQuality": false
+  },
+  "custom_joint_texture_layouts": []
 }
